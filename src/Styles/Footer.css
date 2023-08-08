@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+@media (min-width: 320px) {
+  footer h5 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    margin-top: 30vh;
+    margin-left: 25vw;
+  }
+}
+
+@media (min-width: 700px) {
+  footer h5 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    margin-top: 30vh;
+    margin-left: 40vw;
+  }
+}
+
+@media (min-width: 1080px) and (min-height: 720px) {
+  footer h5 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    margin-top: 30vh;
+    margin-left: 45vw;
+  }
+}

@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+@media (min-width: 320px) {
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2vh;
+  }
+
+  nav img {
+    width: 70px;
+    margin-left: 2vw;
+  }
+
+  nav a {
+    font-family: "Poppins", sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 2vw;
+  }
+
+  a[href$="#contact"] {
+    margin-right: 2vw;
+  }
+
+  nav a:hover {
+    color: blue;
+  }
+}
+
+@media (min-width: 700px) {
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2vh;
+  }
+
+  nav img {
+    width: 100px;
+    margin-left: 2vw;
+  }
+
+  nav a {
+    font-family: "Poppins", sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 2vw;
+  }
+
+  a[href$="#contact"] {
+    margin-right: 2vw;
+  }
+
+  nav a:hover {
+    color: blue;
+  }
+}
+
+@media (min-width: 1080px) and (min-height: 720px) {
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2vh;
+  }
+
+  nav img {
+    width: 100px;
+    margin-left: 2vw;
+  }
+
+  nav a {
+    font-family: "Poppins", sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 2vw;
+  }
+
+  a[href$="#contact"] {
+    margin-right: 2vw;
+  }
+
+  nav a:hover {
+    color: blue;
+  }
+}

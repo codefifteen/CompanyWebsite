@@ -24,6 +24,9 @@ const Main = () => {
       {/* <section id="projects">
         <h1>Coming Soon.</h1>
       </section> */}
+      <div id="contact">
+        <h5>contact@codefifteen.dev</h5>
+      </div>
     </div>
   );
 };

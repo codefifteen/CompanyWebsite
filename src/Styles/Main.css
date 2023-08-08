@@ -24,6 +24,13 @@
     margin-left: 5vw;
     margin-top: -9vh;
   }
+
+  h5 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    margin-top: 30vh;
+    margin-left: 25vw;
+  }
 }
 
 @media (min-width: 700px) {
@@ -50,6 +57,13 @@
     margin-left: 10vw;
     margin-top: -9vh;
   }
+
+  h5 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    margin-top: 30vh;
+    margin-left: 40vw;
+  }
 }
 
 @media (min-width: 1080px) and (min-height: 720px) {
@@ -75,5 +89,12 @@
     font-size: 25px;
     margin-left: 10vw;
     margin-top: -10vh;
+  }
+
+  h5 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    margin-top: 30vh;
+    margin-left: 45vw;
   }
 }
